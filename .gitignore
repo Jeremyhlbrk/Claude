@@ -1,0 +1,4 @@
+# Company data stays out of git (this repo is public)
+data/
+*.xlsx
+!csv_templates/
